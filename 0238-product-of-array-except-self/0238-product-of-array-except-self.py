@@ -1,17 +1,19 @@
+import math
+
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        """
-        Using 1-D recurrence relation
-        Notes:
-        """
-        n = len(nums)
-        l, r = [1] * n, [1] * n
+        res = [1] * len(nums)
 
-        for i in range(1, n):
-            l[i] = nums[i-1] * l[i-1]
-        
-        for i in range(n-2, -1, -1):
-            r[i] = nums[i+1] * r[i + 1]
+        prefix = 1
+        for i, n in enumerate(nums):
+            res[i] = prefix
+            prefix *= n
 
-        return [r[i] * l[i] for i in range(len(nums))]    
+        suffix = 1
+        for i in range(len(nums)-1, -1, -1):
+            n = nums[i]
+            res[i] *= suffix
+            suffix *= n
+
+        return res        
         
