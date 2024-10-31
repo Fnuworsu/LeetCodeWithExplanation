@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
