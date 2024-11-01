@@ -68,4 +68,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1013-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
