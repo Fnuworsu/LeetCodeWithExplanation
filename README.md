@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0238-product-of-array-except-self) |
@@ -110,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
