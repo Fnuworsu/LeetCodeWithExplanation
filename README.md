@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0238-product-of-array-except-self) |
 ## Matrix
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0908-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
