@@ -4,8 +4,7 @@ class Solution:
         res = []
 
         def backtrack(stack, i):
-            if i == len(nums):
-                return
+            if i == n: return 
 
             #include
             stack.append(nums[i])
@@ -19,5 +18,6 @@ class Solution:
 
         backtrack([], 0)
 
-        return res            
+        return res        
+
         
