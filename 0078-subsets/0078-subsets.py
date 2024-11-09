@@ -1,12 +1,16 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        
+        res = [] # accumulator
+
         def backtrack(stack, i):
+            # print(res)
             if i == len(nums):
+                """
+                After searching through the whole of nums 
+                """
                 res.append(stack[:])
                 return
-                
+
             #include
             stack.append(nums[i])
             backtrack(stack, i+1)
@@ -17,5 +21,5 @@ class Solution:
 
         backtrack([], 0)
 
-        return res     
+        return res        
         
