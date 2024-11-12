@@ -16,6 +16,6 @@ class Solution:
             l1.next = merge(l1.next, l2)
 
             return l1
-            
-        return merge(list1, list2)        
+
+        return merge(list1, list2)         
         
