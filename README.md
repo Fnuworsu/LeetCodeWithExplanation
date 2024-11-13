@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1013-fibonacci-number) |
