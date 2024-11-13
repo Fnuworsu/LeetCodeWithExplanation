@@ -5,13 +5,9 @@ class Solution:
         res = ""
 
         if l1 > l2:
-            while diff > 0:
-                l1 -= 1
-                diff -= 1
+            l1 -= diff
         else:
-            while diff > 0:
-                l2 -= 1
-                diff -= 1
+            l2 -= diff
         #l1 == l2
 
         for i in range(l1):
