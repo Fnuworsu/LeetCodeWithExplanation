@@ -4,45 +4,26 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverse(self, node):
-        """
-        Reverse any node, based of node.val
-        """
-        res, curr = [], node
-
-        while curr:
-            res.append(str(curr.val))
-            curr = curr.next
-
-        return int("".join(reversed(res))) 
-
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        l, r = self.reverse(l1), self.reverse(l2)
-        print(l)
-        print(r)
-        Sum = l + r
-        
-        res = []
-
-        if Sum == 0:
-            res.append(0)
-
-        else:
-            while Sum > 0:
-                res.append(Sum % 10)
-                Sum = Sum // 10
-            
-        print(res)
         dummy = ListNode()
+        rem = 0
         curr = dummy
 
-        for n in res:
-            node = ListNode(n)
+        while l1 or l2 or rem:
+            val1 = l1.val if l1 else 0
+            val2 = l2.val if l2 else 0
+
+            val = val1 + val2 + rem
+            rem = val // 10
+            val =  val % 10
+
+            node = ListNode(val)
             curr.next = node
             curr = curr.next
 
-        return dummy.next
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
 
-
+        return dummy.next    
 
         
