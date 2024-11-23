@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
