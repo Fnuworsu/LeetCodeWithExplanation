@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
+| [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -215,11 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1127-last-stone-weight) |
@@ -243,5 +249,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
