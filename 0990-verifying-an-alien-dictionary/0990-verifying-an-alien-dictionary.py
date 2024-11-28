@@ -19,7 +19,7 @@ class Solution:
             res[c] = i
 
         for i in range(1, len(words)):
-            if self.check(res, words[i-1], words[i]) == False:
+            if not self.check(res, words[i-1], words[i]):
                 return False
 
         return True            
