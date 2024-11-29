@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0056-merge-intervals) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0125-valid-palindrome) |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
