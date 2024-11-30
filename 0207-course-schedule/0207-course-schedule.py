@@ -1,31 +1,34 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        def canComplete(course, visited, currPath, graph):
+        visited = set()
+        graph = defaultdict(list)
+
+        for course, preq in prerequisites:
+            graph[course].append(preq)    
+        
+        def canComplete(course, graph):
+            #cycle detection
             if course in visited:
-                return True
-            if course in currPath:
                 return False
-            
-            currPath.add(course)
-            for preq in graph[course]:
-                if not canComplete(preq, visited, currPath, graph):
-                    return False
+
+            if graph[course] == []:
+                return True
 
             visited.add(course)
-            currPath.remove(course)
 
-            return True
+            for preq in graph[course]:
+                if not canComplete(preq, graph):
+                    return False
 
-        graph = defaultdict(list)
-        for course, preq in prerequisites:
-            graph[course].append(preq)
+            #done with that course
+            visited.remove(course)
+            #mark as completed
+            graph[course] = []  
 
-        visited = set()
-        currPath = set()
-
-        for i in range(numCourses):
-            if i not in visited and not canComplete(i, visited, currPath, graph):
+            return True                  
+        
+        for course in range(numCourses):
+            if not canComplete(course, graph):
                 return False
 
-        return True                             
-        
+        return True        
