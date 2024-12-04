@@ -1,5 +1,8 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
+        """
+        optimised space complexity
+        """
         board = [["." for x in range(n)] for y in range(n)]
         row = n
 
@@ -7,13 +10,13 @@ class Solution:
         dSet = set()
         aSet = set()
         
-        res = []
+        res = 0
 
         def placeQueen(r, cSet, dSet, aSet):
             nonlocal res
             #base case
             if r == row:
-                res.append(["".join(x) for x in board])
+                res += 1
                 return
 
             for c in range(row):
@@ -33,11 +36,5 @@ class Solution:
 
         placeQueen(0, cSet, dSet, aSet)                
         
-        # print(res)
-        dis = 0
-
-        for r in res:
-            dis += 1
-
-        return dis    
+        return res 
         
