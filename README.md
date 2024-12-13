@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
