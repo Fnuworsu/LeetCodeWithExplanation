@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1013-fibonacci-number) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Memoization
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0210-course-schedule-ii) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
