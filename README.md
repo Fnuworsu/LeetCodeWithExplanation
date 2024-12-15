@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Matrix
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
