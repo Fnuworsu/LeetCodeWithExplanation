@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0268-missing-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
