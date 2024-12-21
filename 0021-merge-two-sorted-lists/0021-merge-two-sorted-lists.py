@@ -3,21 +3,32 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
+class Wrapper:
+    def __init__(self, node):
+        self.node = node
+
+    def __lt__(self, other):
+        return self.node.val < other.node.val
+
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        def merge(l1, l2):
-            if not l1:
-                return l2
+        heap = []
+        
+        if list1: heapq.heappush(heap, Wrapper(list1))
+        if list2: heapq.heappush(heap, Wrapper(list2))
 
-            if not l2:
-                return l1
+        ret = res = ListNode()
 
-            if l1.val > l2.val:
-                l1, l2 = l2, l1
+        while heap:
+            wrapper = heapq.heappop(heap)
+            node = wrapper.node
+            res.next = node
+            res = res.next
+            node = node.next
 
-            l1.next = merge(l1.next, l2)
+            if node:
+                heapq.heappush(heap, Wrapper(node))
 
-            return l1
-
-        return merge(list1, list2)        
+        return ret.next        
         
