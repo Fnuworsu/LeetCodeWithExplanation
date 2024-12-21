@@ -10,6 +10,9 @@ class Solution:
             if not root:
                 return 0
 
-            return 1 + max(dfs(root.left), dfs(root.right))
+            l = dfs(root.left)
+            r = dfs(root.right)
 
-        return dfs(root)        
+            return 1 + max(l,r)
+
+        return dfs(root)    
