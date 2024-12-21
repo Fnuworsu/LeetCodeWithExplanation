@@ -3,6 +3,7 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+from queue import PriorityQueue
 
 class Wrapper:
     def __init__(self, node):
@@ -13,22 +14,21 @@ class Wrapper:
 
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        heap = []
-        
-        if list1: heapq.heappush(heap, Wrapper(list1))
-        if list2: heapq.heappush(heap, Wrapper(list2))
+        pq = PriorityQueue()
+
+        if list1: pq.put(Wrapper(list1))
+        if list2: pq.put(Wrapper(list2))
 
         ret = res = ListNode()
 
-        while heap:
-            wrapper = heapq.heappop(heap)
-            node = wrapper.node
+        while not pq.empty():
+            node = pq.get().node
             res.next = node
             res = res.next
             node = node.next
 
-            if node:
-                heapq.heappush(heap, Wrapper(node))
+            if node: pq.put(Wrapper(node))
 
-        return ret.next        
+        return ret.next    
+              
         
