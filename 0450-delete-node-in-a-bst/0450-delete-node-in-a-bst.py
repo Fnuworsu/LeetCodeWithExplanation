@@ -24,11 +24,11 @@ class Solution:
             else:
                 # Node to delete found
                 if not node.left and not node.right:  # Leaf node
-                    return None
+                    node = None
                 elif not node.left:  # Only right child exists
-                    return node.right
+                    node = node.right
                 elif not node.right:  # Only left child exists
-                    return node.left
+                    node = node.left
                 else:
                     # Both children exist
                     successor = findSuccessor(node)
