@@ -1,24 +1,25 @@
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
         """
-        [8,7,4,2,1,1]
-         0 1 2 3 4 5
-         1 0 2 0 0  0   
+        x <= y
+        1. if x == y: kill both
+        2. else: x is destroyed y = y-x
         """
-        #Brute Force Solution
-        if len(stones) == 1: return stones[0]
+        heap = [-s for s in stones]
+        heapq.heapify(heap)
 
-        stones.sort(reverse = True)
+        while len(heap) > 1:
+            y = -heapq.heappop(heap)
+            x = -heapq.heappop(heap)
 
-        for i in range(len(stones)):
-            
-            x, y = stones[1], stones[0]
             if x == y:
-                stones[1], stones[0] = 0, 0
-                stones.sort(reverse = True)
+                continue
             else:
-                stones[1], stones[0] = 0, y-x    
-                stones.sort(reverse = True)
+                y = y - x
+                heapq.heappush(heap, -y)
 
-        return sum(stones)            
-        
+        if heap:
+            return -heapq.heappop(heap)
+
+        return 0            
+         
