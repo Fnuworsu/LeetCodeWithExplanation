@@ -10,7 +10,7 @@ from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         old = {}
-        
+
         def dfs(node):
             if node in old:
                 return old[node]
@@ -19,7 +19,8 @@ class Solution:
             old[node] = copy
 
             for nb in node.neighbors:
-                copy.neighbors.append(dfs(nb))
+                nbCopy = dfs(nb)
+                copy.neighbors.append(nbCopy)
 
             return copy
 
