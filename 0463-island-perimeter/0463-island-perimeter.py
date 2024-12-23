@@ -1,19 +1,29 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
-        """
-        4 4 - 2 4 -2 -2 4 4 -2 4 -2 4 -2
-        """
-        row, col = len(grid), len(grid[0])
-        res = 0
+        rows, cols = len(grid), len(grid[0])
 
-        for r in range(row):
-            for c in range(col):
+        def perimeter(r,c):
+            nonlocal p
+
+            dirs = [(1,0), (0,1), (-1,0), (0,-1)]
+
+            for dr,dc in dirs:
+                nr = r + dr
+                nc = c + dc
+
+                if (nr not in range(rows)) or (nc not in range(cols)):
+                    continue
+                if grid[nr][nc] == 1:
+                    p += 1
+           
+        res, p = 0, 0
+
+        for r in range(rows):
+            for c in range(cols):
                 if grid[r][c] == 1:
                     res += 4
-                    if r > 0 and grid[r-1][c] == 1:
-                        res -= 2
-                    if c > 0 and grid[r][c-1] == 1:
-                        res -= 2
+                    perimeter(r,c)
+    
+        return res - p               
 
-        return res                    
         
