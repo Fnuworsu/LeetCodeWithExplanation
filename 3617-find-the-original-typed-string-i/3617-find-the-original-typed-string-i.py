@@ -1,32 +1,18 @@
 class Solution:
     def possibleStringCount(self, word: str) -> int:
         resMap = defaultdict(int)
-        stack = []
+        resSet = set(word[0])
         i = 0
 
         for c in word:
-            if stack and stack[-1] != c:
-                print(stack," => check")
-                if len(stack) > 1:
-                    k = stack[-1]
-                    if k in resMap:
-                        resMap[(k,i)] = len(stack)
-                        i += 1
-                    else:
-                        resMap[k] = len(stack)
-                stack = [c]
+            if c in resSet:
+                resMap[(c,i)] += 1
             else:
-                stack.append(c)
-                print(stack, " => add")
-
-        if stack and list(set(stack))[0] == stack[-1]:
-            k = stack[-1]
-            if k in resMap:
-                resMap[(k,i)] = len(stack)
+                print(resSet)
+                resSet.clear()
                 i += 1
-            else:
-                resMap[k] = len(stack)    
-               
+                resSet.add(c) 
+                resMap[(c,i)] += 1   
 
         res = 1
 
