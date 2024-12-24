@@ -24,7 +24,7 @@ class Trie:
         res = ""
 
         for c in word:
-            if len(curr.children) > 1 or curr.isEnd:
+            if len(curr.children.values()) > 1 or curr.isEnd:
                 break
             if c in curr.children:
                 res += c
