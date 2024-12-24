@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0990-verifying-an-alien-dictionary) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1894-merge-strings-alternately) |
+| [3617-find-the-original-typed-string-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
 | ------- |
