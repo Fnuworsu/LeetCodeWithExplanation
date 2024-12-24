@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0310-minimum-height-trees](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0463-island-perimeter) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0310-minimum-height-trees) |
 ## Shortest Path
 |  |
 | ------- |
