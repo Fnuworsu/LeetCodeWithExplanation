@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1127-last-stone-weight) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Trie
 |  |
