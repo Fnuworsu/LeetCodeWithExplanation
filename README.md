@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
 ## Stack
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
