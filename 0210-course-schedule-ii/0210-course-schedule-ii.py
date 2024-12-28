@@ -4,10 +4,10 @@ class Solution:
         state = [0 for _ in range(numCourses)]
         res = []
 
-        for course, preq in prerequisites:
-            graph[course].append(preq)
+        for u,v in prerequisites:
+            graph[u].append(v)
 
-        def complete(course, graph):
+        def dfs(course):
             nonlocal res
             if state[course] == 1:
                 return False
@@ -17,18 +17,16 @@ class Solution:
             state[course] = 1
 
             for preq in graph[course]:
-                if not complete(preq, graph):
+                if not dfs(preq):
                     return False
 
-            res.append(course)
             state[course] = 2
-            return True                
-            
+            res.append(course)
+            return True
 
         for course in range(numCourses):
-            if not complete(course, graph):
+            if not dfs(course):
                 return []
 
-        return res            
-
-        
+        return res                        
+                
