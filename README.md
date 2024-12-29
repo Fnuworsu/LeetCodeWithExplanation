@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
 ## Stack
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0090-subsets-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0813-all-paths-from-source-to-target) |
 ## Union Find
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
