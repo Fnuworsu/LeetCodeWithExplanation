@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0090-subsets-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0419-battleships-in-a-board) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0090-subsets-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0813-all-paths-from-source-to-target) |
 ## Union Find
