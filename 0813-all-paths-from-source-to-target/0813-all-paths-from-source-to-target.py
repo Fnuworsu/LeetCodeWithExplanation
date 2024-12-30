@@ -4,7 +4,7 @@ class Solution:
         res = []
 
         def backtrack(path, node):
-            if node == target:
+            if path[-1] == target:
                 res.append(path[:])
                 return
 
