@@ -1,40 +1,37 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
-        """
-        optimised space complexity
-        """
-        board = [["." for x in range(n)] for y in range(n)]
+        board = [['.' for x in range(n)] for y in range(n)]
+        rSet, cSet, aSet, dSet = set(), set(), set(), set()
         row = n
-
-        cSet = set()
-        dSet = set()
-        aSet = set()
-        
         res = 0
 
-        def placeQueen(r, cSet, dSet, aSet):
+        def backtrack(r, rSet, cSet, aSet, dSet):
             nonlocal res
-            #base case
+
             if r == row:
                 res += 1
                 return
 
             for c in range(row):
-                if c in cSet or r+c in dSet or r-c in aSet:
+                if r in rSet or c in cSet or r+c in dSet or r-c in aSet:
                     continue
+
+                rSet.add(r)
                 cSet.add(c)
                 dSet.add(r+c)
                 aSet.add(r-c)
 
-                board[r][c] = "Q"
-                placeQueen(r+1, cSet, dSet, aSet)
-                board[r][c] = "."
+                board[r][c] = 'Q'
+                backtrack(r+1, rSet, cSet, aSet, dSet)
+                board[r][c] = '.'
 
+                rSet.remove(r)
                 cSet.remove(c)
                 dSet.remove(r+c)
                 aSet.remove(r-c)
 
-        placeQueen(0, cSet, dSet, aSet)                
-        
-        return res 
+        backtrack(0, rSet, cSet, aSet, dSet)
+
+        return res               
+
         
