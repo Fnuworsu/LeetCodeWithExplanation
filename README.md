@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1894-merge-strings-alternately) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3617-find-the-original-typed-string-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1603-running-sum-of-1d-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Matrix
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1603-running-sum-of-1d-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Dynamic Programming
 |  |
