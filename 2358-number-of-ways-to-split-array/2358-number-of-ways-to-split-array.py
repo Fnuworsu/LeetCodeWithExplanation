@@ -1,19 +1,33 @@
-from typing import List
-
 class Solution:
     def waysToSplitArray(self, nums: List[int]) -> int:
         """
-        Counts the number of valid splits such that the sum of the left part
-        is greater than or equal to the sum of the right part.
-        """
-        total = sum(nums)  # Calculate the total sum of the array
-        acc = 0  # Running sum of the left part
-        res = 0  # Counter for valid splits
+        split idx:
+            1.sum of(i+1) el >= sum(n-i-1)
+            2. one or more elements to the right of i
 
-        # Iterate over indices where a split is possible
-        for i in range(len(nums) - 1):
-            acc += nums[i]  # Update the running sum of the left part
-            if acc >= total - acc:  # Check if the left part is >= right part
+        [10,4,-8,7]  
+        total = 13
+        0 <= i < n-1
+        [10,14,6,13]
+        res = 1o  
+        10 -> 10, 10
+        """
+        prefix = [nums[0]]
+
+        for n in nums[1:]:
+            prefix.append(prefix[-1] + n)
+        # print(prefix)    
+
+        res, acc = 0, 0
+
+        for i in range(len(nums)-1):    
+            acc += nums[i]
+            p = prefix[i]
+            s = prefix[-1] - acc
+
+            if p >= s:
                 res += 1
 
-        return res
+        return res        
+
+        
