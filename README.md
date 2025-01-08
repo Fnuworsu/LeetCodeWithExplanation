@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Matrix
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Queue
 |  |
 | ------- |
@@ -472,4 +477,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
