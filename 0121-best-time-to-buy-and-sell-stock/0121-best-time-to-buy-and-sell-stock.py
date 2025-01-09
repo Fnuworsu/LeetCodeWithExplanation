@@ -1,14 +1,19 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+        """
+        1.Greedily buy the stock with the lowest cost
+        2.If we are already at the lowest stock we can buy, we calculate and update our maxProfit
+        """
         buy = prices[0]
-        profit = 0
+        maxProfit = 0
 
         for price in prices[1:]:
             if buy > price:
                 buy = price
             else:
-                res = price - buy
-                profit = max(profit, res)
+                profit = price - buy
+                maxProfit = max(maxProfit, profit)
 
-        return profit           
+        return maxProfit            
+
         
