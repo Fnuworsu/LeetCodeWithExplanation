@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0812-rotate-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0990-verifying-an-alien-dictionary) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1524-string-matching-in-an-array) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2331-intersection-of-multiple-arrays) |
