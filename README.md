@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0463-island-perimeter) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1028-interval-list-intersections) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0349-intersection-of-two-arrays) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
