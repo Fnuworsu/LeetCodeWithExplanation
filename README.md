@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0463-island-perimeter) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0817-design-hashmap) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
 | [1028-interval-list-intersections](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1028-interval-list-intersections) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0817-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
