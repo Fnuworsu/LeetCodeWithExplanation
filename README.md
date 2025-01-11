@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0990-verifying-an-alien-dictionary) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1502-construct-k-palindrome-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1894-merge-strings-alternately) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0680-valid-palindrome-ii) |
+| [1502-construct-k-palindrome-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1502-construct-k-palindrome-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1502-construct-k-palindrome-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2331-intersection-of-multiple-arrays) |
