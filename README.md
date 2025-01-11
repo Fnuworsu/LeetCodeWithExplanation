@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2486-most-frequent-even-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2486-most-frequent-even-element) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## String
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2358-number-of-ways-to-split-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2465-shifting-letters-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2465-shifting-letters-ii) |
+| [2486-most-frequent-even-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2486-most-frequent-even-element) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2486-most-frequent-even-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2486-most-frequent-even-element) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Design
 |  |
