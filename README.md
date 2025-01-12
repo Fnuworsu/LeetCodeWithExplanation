@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2365-percentage-of-letter-in-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2365-percentage-of-letter-in-string) |
 | [2465-shifting-letters-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2465-shifting-letters-ii) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0234-palindrome-linked-list) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0680-valid-palindrome-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Sorting
 |  |
 | ------- |
