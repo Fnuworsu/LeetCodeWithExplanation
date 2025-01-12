@@ -1,14 +1,26 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        res = defaultdict(list)
+        resMap = defaultdict(list)
+        """
+        = {
+            a
+        }
+        abc, bca
+        key = [0,0,0,0]
+        aaabc = [3,1,1]
+        abaca = [3,1,1]
 
-        for s in strs:
+        ([3,1,1]) : [].add(w)
+        """
+        asci = lambda x: ord(x)-ord('a')
+
+        for w in strs:
             key = [0] * 26
+            
+            for c in w:
+                key[asci(c)] += 1
 
-            for c in s:
-                key[ord(c)-ord("a")] += 1
+            resMap[tuple(key)].append(w)  
 
-            res[tuple(key)].append(s)    
-
-        return list(res.values())    
+        return list(resMap.values())   
         
