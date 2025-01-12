@@ -11,8 +11,6 @@ class SegmentTree:
         self.root = self.build(arr, 0, len(arr)-1)
     
     def build(self, arr, start, end):
-        if start > end:
-            return None
         node = Node(start,end)
         if start == end:
             node.sum = arr[start]
