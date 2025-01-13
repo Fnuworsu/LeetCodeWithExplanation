@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0990-verifying-an-alien-dictionary) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 | [1502-construct-k-palindrome-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1603-running-sum-of-1d-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Tree
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2331-intersection-of-multiple-arrays) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1127-last-stone-weight) |
+| [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -541,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
+| [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Queue
 |  |
