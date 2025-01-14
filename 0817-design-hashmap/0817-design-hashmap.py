@@ -15,18 +15,18 @@ class MyHashMap:
     def put(self, key: int, value: int) -> None:
         i = self.idx(key)
         node = ListNode(value, key)
-        self.acc[i] = node
+        self.acc[key] = node
 
     def get(self, key: int) -> int:
         i = self.idx(key)
 
-        if self.acc[i] == 0:
+        if self.acc[key] == 0:
             return -1
-        return self.acc[i].val     
+        return self.acc[key].val     
 
     def remove(self, key: int) -> None:
         i = self.idx(key)
-        self.acc[i] = 0
+        self.acc[key] = 0
         
 
 
