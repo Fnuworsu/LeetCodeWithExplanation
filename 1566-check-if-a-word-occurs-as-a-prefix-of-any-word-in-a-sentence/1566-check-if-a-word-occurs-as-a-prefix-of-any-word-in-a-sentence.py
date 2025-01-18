@@ -1,51 +1,59 @@
-class KMP:
-    def __init__(self, pattern):
-        self.pattern = pattern
-        self.lps = [0] * len(pattern)
+class TrieNode:
+    def __init__(self):
+        self.children = defaultdict(TrieNode)
+        self.end = False
 
-        j = 0
-        i = 1
-
-        while i < len(pattern):
-            if pattern[i] == pattern[j]:
-                self.lps[i] = j + 1
-                i += 1
-                j += 1
-            elif j == 0:
-                self.lps[i] = 0
-                i += 1
-            else:
-                j = self.lps[j-1]
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
     
-    def match(self, haystack):
-        i = 0
-        j = 0
-
-        while i < len(haystack):
-            if haystack[i] == self.pattern[j]:
-                i += 1
-                j += 1
-            elif j == 0:
-                i += 1
-            else:
-                j = self.lps[j-1]
-            if j == len(self.pattern):
-                return not (i-j)
+    def add(self, word):
+        curr = self.root
+        for c in word:
+            curr = curr.children[c]
+        curr.end = True
+    
+    def isPrefix(self, prefix):
+        def dfs(node, path, res):
+            if node.end:
+                res.append("".join(path[:]))
+            
+            for k,v in node.children.items():
+                path.append(k)
+                dfs(v, path, res)
+                path.pop()
         
-        return False
+        curr = self.root
+
+        for c in prefix:
+            curr = curr.children[c]
+
+        res = []
+        dfs(curr, list(prefix), res)
+
+        return res
 
 class Solution:
     def isPrefixOfWord(self, sentence: str, searchWord: str) -> int:
-        #Using string matching
-        kmp = KMP(searchWord)
+        trie = Trie()
+        words = sentence.split()
+        hMap = {}
 
+        for i,w in enumerate(words):
+            if w in hMap:
+                continue
+            hMap[w] = i+1
+
+        for w in words:
+            if w[0] == searchWord[0]:
+                trie.add(w)
+        
+        acc = trie.isPrefix(searchWord)
+        # print(acc)
         res = float('inf')
-        i = 1
 
-        for word in sentence.split():
-            if kmp.match(word):
-                res = min(res, i)
-            i += 1
-
-        return res if res != float('inf') else - 1
+        for p in acc:
+            res = min(res, hMap[p])
+        
+        return res if res != float('inf') else -1
         
