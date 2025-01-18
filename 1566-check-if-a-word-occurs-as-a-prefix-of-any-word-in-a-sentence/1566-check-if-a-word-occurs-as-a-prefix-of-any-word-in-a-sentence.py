@@ -1,5 +1,6 @@
 class Solution:
     def isPrefixOfWord(self, sentence: str, searchWord: str) -> int:
+        #brute force
         res = []
         i = 1
 
