@@ -1,13 +1,14 @@
 class Solution:
     def findMinHeightTrees(self, n: int, edges: List[List[int]]) -> List[int]:
         """
+        NB: we only can have a MHT if number of nodes >= 2
         1.MHT has 1 center(for even nodes) or 2 centers(for odd nodes)
         2.Condition is while nodes with one degree are > 2
         3.remove one degree nodes from nb, and delete from the graph afterwards
         """
         if n == 1:
             return [0]
-            
+
         graph = defaultdict(set)
 
         for u,v in edges:
