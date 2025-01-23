@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1524-string-matching-in-an-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0463-island-perimeter) |
+| [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1876-map-of-highest-peak) |
 ## Prefix Sum
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1300-critical-connections-in-a-network) |
+| [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0820-find-eventual-safe-states) |
+| [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0801-is-graph-bipartite) |
+| [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
@@ -483,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
