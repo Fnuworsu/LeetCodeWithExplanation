@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0485-max-consecutive-ones) |
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0735-asteroid-collision) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
