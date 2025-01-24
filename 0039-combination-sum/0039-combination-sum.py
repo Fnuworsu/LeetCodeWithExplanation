@@ -1,32 +1,23 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        """
-        2 2 2 2
-        2 2 2
-        2 2 2 3
-        """
         res = []
-        
-        def backtrack(stack, nums, i):
-            # print(stack)
-            if i == len(nums): return
 
-            if sum(stack) > target: return
+        def back(i, path):
+            nonlocal res
 
-            if sum(stack) == target:
-                res.append(stack[:])
+            if i == len(candidates) or sum(path) > target:
                 return
             
-            #include
-            stack.append(nums[i])
-            backtrack(stack, nums, i)
+            if sum(path) == target:
+                res.append(path[:])
+                return
+            
+            for j in range(i, len(candidates)):
+                path.append(candidates[j])
+                back(j, path)
+                path.pop()
+        
+        back(0, [])
 
-            #exlude
-            stack.pop()
-            backtrack(stack, nums, i+1)
-
-        backtrack([], candidates, 0)
-
-        return res    
-
+        return res
         
