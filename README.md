@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0349-intersection-of-two-arrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0409-longest-palindrome) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0232-implement-queue-using-stacks) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
 | [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
