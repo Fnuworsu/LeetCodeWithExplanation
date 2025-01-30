@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0451-sort-characters-by-frequency) |
+| [0648-replace-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0817-design-hashmap) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0459-repeated-substring-pattern) |
+| [0648-replace-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0812-rotate-string) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0485-max-consecutive-ones) |
+| [0648-replace-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0735-asteroid-collision) |
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0648-replace-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0692-top-k-frequent-words) |
 | [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
