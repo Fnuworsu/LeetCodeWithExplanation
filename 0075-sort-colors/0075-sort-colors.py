@@ -3,15 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        hashMap = {0:0, 1:0, 2:0}
+        l, mid, h = 0, 0, len(nums)-1
 
-        for n in nums:
-            hashMap[n] += 1
-        
-        i = 0
-
-        for k,v in hashMap.items():
-            for j in range(i, i+v):
-                nums[j] = k
-            i += v
+        while mid <= h:
+            if nums[mid] == 0:
+                nums[l], nums[mid] = nums[mid], nums[l]
+                l += 1
+                mid += 1
+            elif nums[mid] == 1:
+                mid += 1
+            else:
+                nums[h], nums[mid] = nums[mid], nums[h]
+                h -= 1
         
