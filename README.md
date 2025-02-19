@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2365-percentage-of-letter-in-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2365-percentage-of-letter-in-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0735-asteroid-collision) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0813-all-paths-from-source-to-target) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Union Find
 |  |
 | ------- |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0680-valid-palindrome-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
