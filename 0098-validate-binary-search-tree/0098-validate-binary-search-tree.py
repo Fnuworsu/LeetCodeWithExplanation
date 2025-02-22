@@ -6,23 +6,16 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        """
-        global min, max for the root, so that the invariance applies across
-        """
-
         def validate(node, minVal, maxVal):
             if not node:
                 return True
-
+            
             if node.val <= minVal:
                 return False
-
+            
             if node.val >= maxVal:
                 return False
-
-            left = validate(node.left, minVal, node.val)
-            right = validate(node.right, node.val, maxVal)
-
-            return left and right
-
-        return validate(root, float("-inf"), float("inf"))                
+            
+            return validate(node.left, minVal, node.val) and validate(node.right, node.val, maxVal)
+        
+        return validate(root, float('-inf'), float('inf'))
