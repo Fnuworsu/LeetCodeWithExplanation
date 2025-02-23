@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2331-intersection-of-multiple-arrays) |
+| [2350-find-closest-number-to-zero](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2358-number-of-ways-to-split-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2465-shifting-letters-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2465-shifting-letters-ii) |
