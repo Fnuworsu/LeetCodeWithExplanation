@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-node-with-highest-edge-score](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2455-node-with-highest-edge-score) |
 | [2486-most-frequent-even-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2502-sort-the-people) |
+| [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2465-shifting-letters-ii) |
 | [2486-most-frequent-even-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2502-sort-the-people) |
+| [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0817-design-hashmap) |
 | [2434-design-a-number-container-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2434-design-a-number-container-system) |
+| [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0735-asteroid-collision) |
+| [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
