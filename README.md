@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1254-deepest-leaves-sum) |
+| [1275-validate-binary-tree-nodes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1275-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1254-deepest-leaves-sum) |
+| [1275-validate-binary-tree-nodes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1300-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1254-deepest-leaves-sum) |
+| [1275-validate-binary-tree-nodes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1275-validate-binary-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1036-rotting-oranges) |
 | [1254-deepest-leaves-sum](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1254-deepest-leaves-sum) |
+| [1275-validate-binary-tree-nodes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0801-is-graph-bipartite) |
+| [1275-validate-binary-tree-nodes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
@@ -631,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1039-find-the-town-judge) |
+| [1275-validate-binary-tree-nodes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
