@@ -1,26 +1,21 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
         """
-        even and odd
-        a:1
-        c: 4
-        d: 2
+        a = 1
+        b = 1
+        c = 4
+        d = 2
         """
-        hMap = defaultdict(int)
-
-        for c in s: hMap[c] += 1
-
+        freq = Counter(s)
+        even = 0
         odd = 0
-        res = 0
 
-        for v in hMap.values():
-            if v % 2 == 1:
-                odd = 1
-                res += (v-1)
+        for v in freq.values():
+            if not v % 2:
+                even += v
             else:
-                res += v
+                odd = 1
+                even += (v-1)
         
-        return res + odd
-
-
+        return odd + even
         
