@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
