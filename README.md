@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2502-sort-the-people) |
 | [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2665-minimum-time-to-repair-cars) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1646-kth-missing-positive-number) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2665-minimum-time-to-repair-cars) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Tree
 |  |
