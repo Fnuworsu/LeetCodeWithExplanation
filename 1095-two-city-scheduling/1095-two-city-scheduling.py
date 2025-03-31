@@ -1,24 +1,14 @@
 class Solution:
     def twoCitySchedCost(self, costs: List[List[int]]) -> int:
-        """
-
-        """
-        arr = []
-        idx = len(costs) // 2
+        i = len(costs) //2
+        costs.sort(key=lambda x: x[0] - x[1])
         res = 0
+        
+        for n in costs[:i]:
+            res += n[0]
+        
+        for n in costs[i:]:
+            res += n[1]
 
-        for i in range(2 * idx):
-            a,b = costs[i]
-            arr.append(((a-b), i))
-        
-        arr.sort()
-
-        for x in arr[:idx]:
-            res += costs[x[1]][0]
-        
-        for x in arr[idx:]:
-            res += costs[x[1]][1]
-        
         return res
-            
         
