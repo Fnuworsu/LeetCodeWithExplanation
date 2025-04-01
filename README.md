@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2665-minimum-time-to-repair-cars) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1300-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
 ## Stack
 |  |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
 ## Greedy
 |  |
