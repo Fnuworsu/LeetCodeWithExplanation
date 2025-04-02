@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2358-number-of-ways-to-split-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2465-shifting-letters-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2465-shifting-letters-ii) |
 | [2486-most-frequent-even-element](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2486-most-frequent-even-element) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2665-minimum-time-to-repair-cars) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Tree
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Backtracking
 |  |
 | ------- |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2331-intersection-of-multiple-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2502-sort-the-people) |
 | [3430-count-days-without-meetings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3430-count-days-without-meetings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
