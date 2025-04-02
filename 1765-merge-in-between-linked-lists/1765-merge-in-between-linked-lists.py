@@ -12,7 +12,7 @@ class Solution:
         
         temp = node.next
 
-        for _ in range(b-a+1):
+        for _ in range(b-a):
             temp = temp.next
         # print(temp.val)
         
@@ -21,6 +21,6 @@ class Solution:
         while node.next:
             node = node.next
         
-        node.next = temp
+        node.next = temp.next
 
         return list1
