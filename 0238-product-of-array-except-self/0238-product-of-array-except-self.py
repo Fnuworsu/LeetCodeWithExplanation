@@ -6,13 +6,9 @@ class Solution:
 
         for i in range(1, n):
             l[i] = nums[i-1] * l[i-1]
-            
-        # print(l)    
-
-        for i in range(len(nums)-2, -1,-1):
-            r[i] = nums[i+1] * r[i+1]
-
-        # print(r)
-
-        return [x*y for x,y in zip(l,r)]        
         
+        for i in range(n-2, -1, -1):
+            r[i] = nums[i+1] * r[i+1]
+        print(l)
+        print(r)
+        return [x*y for x,y in zip(l,r)]
