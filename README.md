@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2502-sort-the-people) |
 | [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2502-sort-the-people) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3430-count-days-without-meetings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
