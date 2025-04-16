@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0268-missing-number) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0238-product-of-array-except-self) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0204-count-primes) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Minimum Spanning Tree
 |  |
@@ -778,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0912-random-pick-with-weight) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
