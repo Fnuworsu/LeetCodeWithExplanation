@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2121-find-if-path-exists-in-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2455-node-with-highest-edge-score) |
 | [2793-count-the-number-of-complete-components](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3189-find-champion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
