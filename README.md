@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1954-replace-all-digits-with-characters](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1954-replace-all-digits-with-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2163-kth-distinct-string-in-an-array) |
