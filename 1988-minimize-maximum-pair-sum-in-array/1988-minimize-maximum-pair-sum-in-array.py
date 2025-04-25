@@ -11,9 +11,6 @@ class Solution:
         res = float('-inf')
 
         for i in range(n//2):
-            x = nums[i]
-            y = nums[~i]
-
-            res = max(res, x+y)
+            res = max(res, nums[i] + nums[~i])
         
         return res
