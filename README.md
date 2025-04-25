@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2365-percentage-of-letter-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0735-asteroid-collision) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
