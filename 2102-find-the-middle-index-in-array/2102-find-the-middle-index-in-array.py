@@ -14,8 +14,6 @@ class Solution:
             l = prefix[i-1] if i-1 >= 0 else 0
             r = prefix[-1] - prefix[i]
 
-            print(l,r)
-
             if l == r:
                 return i
         
