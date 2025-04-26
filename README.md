@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0342-power-of-four) |
+| [0899-binary-gap](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0899-binary-gap) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window
