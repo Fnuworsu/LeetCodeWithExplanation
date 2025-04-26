@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3617-find-the-original-typed-string-i) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
