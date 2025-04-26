@@ -1,20 +1,20 @@
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
         """
+        n = 1,2,3,4
         [1,3,2,4]
         [3,1,2,4]
-        
-        setA = {1,3}
-        setB = {3,1}
+
+        set1 = 1
+        set2 = 3
         """
-        setA = set()
-        setB = set()
         res = []
+        set1, set2 = set(), set()
 
-        for a,b in zip(A, B):
-            setA.add(a)
-            setB.add(b)
+        for x,y in zip(A, B):
+            set1.add(x)
+            set2.add(y)
 
-            res.append(len(setA.intersection(setB)))
+            res.append(len(set1 & set2))
         
         return res
