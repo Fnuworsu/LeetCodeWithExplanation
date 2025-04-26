@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/1876-map-of-highest-peak) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Prefix Sum
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/0735-asteroid-collision) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2587-design-memory-allocator](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/2587-design-memory-allocator) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Fnuworsu/LeetCodeWithExplanation/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
