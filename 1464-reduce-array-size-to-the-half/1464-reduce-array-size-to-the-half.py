@@ -10,7 +10,7 @@ class Solution:
         total = len(arr)
         K = total // 2
         nums = sorted([(-v,k) for k,v in Counter(arr).items()])
-        print(nums, K, total)
+        # print(nums, K, total)
         count = 0
 
         for v,k in nums:
